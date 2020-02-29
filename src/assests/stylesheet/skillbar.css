@@ -1,0 +1,17 @@
+.progress_bar {
+    height: 100%;
+    width: 100%;
+   }
+  .bar_frame {
+     border: 2px solid black;
+     width: 90%;
+     border-radius: 20px;
+     box-shadow: 4px 3px 5px black;}
+  .bar_per_cent {
+     background-color: lightblue;
+     height: 24px;
+     width: 0%;
+     border-radius: 20px;}
+  .progress_bar span {
+     font-size: 32px;
+     font-family: cursive;}

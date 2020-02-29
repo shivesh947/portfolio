@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 300 200" style="enable-background:new 0 0 300 200;" xml:space="preserve">
+<style type="text/css">
+	.st0{stroke:#000000;stroke-width:4.4017;stroke-miterlimit:10;}
+	.st1{fill:none;}
+	.st2{font-family:'MyriadPro-Regular';}
+	.st3{font-size:44.838px;}
+	.st4{fill:none;stroke:#000000;stroke-width:3.8463;stroke-miterlimit:10;}
+	.st5{fill:#CCCCCC;stroke:#CCCCCC;stroke-width:1.8217;stroke-miterlimit:10;}
+</style>
+<path class="st0" d="M250.9,135.4h-36.8c-9.3,0-16.8-7.5-16.8-16.8V84.8c0-9.3,7.5-16.8,16.8-16.8h36.8c9.3,0,16.8,7.5,16.8,16.8
+	v33.8C267.7,127.9,260.1,135.4,250.9,135.4z"/>
+<rect x="37.1" y="84.3" class="st1" width="135.5" height="38"/>
+<text transform="matrix(0.9508 0 0 1 37.1035 116.167)" class="st2 st3">ABOUT  </text>
+<line class="st4" x1="37.5" y1="100.3" x2="14.7" y2="100.3"/>
+<line class="st4" x1="297.8" y1="100.3" x2="275.1" y2="100.3"/>
+<text transform="matrix(0.9508 0 0 1 202.2158 116.0371)" class="st5 st2 st3">ME</text>
+</svg>

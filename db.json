@@ -1,0 +1,134 @@
+{
+    "persondata": {
+        "aboutus": [{
+            "imageLink": "images/profile.jpg",
+            "Name": "Shivesh Gupta",
+            "Email": "Guptashiv84@gmail.com",
+            "Phonenumber": "8968884748",
+            "links": [{
+                    "icon": "url",
+                    "type": "Git",
+                    "url": "https://github.com/shivesh947"
+                },
+                {
+                    "icon": "url",
+                    "type": "Linkedin",
+                    "url": "https://www.linkedin.com/in/shivesh-gupta-86712b178/"
+                }
+            ],
+            "developertype": "Full Stack Developer",
+            "heading": "Great things are done by a series of small things brought together.",
+            "description": "I love building UI/UX design experiences that improve user's everyday life + I convert the design into responsive HTML5/CSS3 that I call PSD to HTML Development. I am always hungry for new challenges and innovations. Any spare time I have to work on side projects to further my skills so that I can apply these to real projects."
+        }],
+        "skill": [{
+            "name": [
+                "HTML",
+                "CSS",
+                "JAVASCRIPT",
+                "Jquery",
+                "java"
+            ],
+            "percentage": [
+                "100",
+                "40",
+                "70",
+                "80",
+                "40"
+            ]
+        }],
+        "projects": [{
+                "Name": "Css Styler",
+                "livelink": "https://shivesh947.github.io/css_styler/button%20maker%20done/temp.html",
+                "gitlink": "https://github.com/shivesh947/css_styler",
+                "imageLink": "images/projecticon/logo1.png",
+                "shorddescription": "In this web application you create your own designer buttons, form , div, etc in one roof"
+            },
+            {
+                "Name": "Car Racing",
+                "livelink": "https://shivesh947.github.io/Arcade_Car_Game/",
+                "gitlink": "https://github.com/shivesh947/Arcade_Car_Game",
+                "imageLink": "images/projecticon/logo2.png",
+                "shorddescription": ""
+            },
+            {
+                "Name": "Colorama",
+                "livelink": "https://shivesh947.github.io/colorama/color.html",
+                "gitlink": "https://github.com/shivesh947/colorama",
+                "imageLink": "images/projecticon/logo3.png",
+                "shorddescription": "This application help to picking color for website and making gradient easily. "
+            },
+            {
+                "Name": "News of India",
+                "livelink": "https://shivesh947.github.io/Newswebsite/",
+                "gitlink": "https://github.com/shivesh947/Newswebsite",
+                "imageLink": "images/projecticon/logo4.png",
+                "shorddescription": "News wesite using react please click home inside the live link"
+            },
+            {
+                "Name": "TIC_TAC_TOE",
+                "livelink": "https://kidoworld.000webhostapp.com/tic-tac-toe/index.html",
+                "gitlink": "https://github.com/shivesh947/TIC_TAC_TOE",
+                "imageLink": "images/projecticon/logo5.png",
+                "shorddescription": ""
+            },
+            {
+                "Name": "MOMCQT",
+                "livelink": "",
+                "gitlink": "https://github.com/shivesh947/MOMCQT",
+                "imageLink": "images/projecticon/logo6.png",
+                "shorddescription": "MOMCQT Stand for Make Own Multiple Choice Question Test. In this Application You can easily generate your own mock test. "
+            },
+            {
+                "Name": "Snake Game",
+                "livelink": "https://shivesh947.github.io/Snake_game/index.html",
+                "gitlink": "https://github.com/shivesh947/Snake_game/",
+                "imageLink": "images/projecticon/logo7.png",
+                "shorddescription": ""
+            },
+            {
+                "Name": "Train Enquiry System",
+                "livelink": "https://kidoworld.000webhostapp.com/Train%20Enquiry%20System/railway.php",
+                "gitlink": "https://github.com/shivesh947/Train-Enquiry-System",
+                "imageLink": "images/projecticon/logo8.png",
+                "shorddescription": "Find list of trains and details with the help of Location and train name easily"
+            },
+            {
+                "Name": "Sarthi",
+                "livelink": "https://creepiest-men.000webhostapp.com/project%20online/index.php",
+                "gitlink": "",
+                "imageLink": "images/projecticon/logo9.png",
+                "shorddescription": "This PWA application send messages to family member and near policestation"
+            },
+            {
+                "Name": "Ticket generater",
+                "livelink": "https://kidoworld.000webhostapp.com/ticket/ticketbook.html",
+                "gitlink": "https://github.com/shivesh947/Ticket_generater_QR",
+                "imageLink": "images/projecticon/logo10.png",
+                "shorddescription": ""
+            },
+            {
+                "Name": "Poker Game",
+                "livelink": "",
+                "gitlink": "https://github.com/shivesh947/Poker",
+                "imageLink": "images/projecticon/logo11.png",
+                "shorddescription": "Poker game made by Python with local storage "
+            },
+            {
+                "Name": "Handicraft selling",
+                "livelink": "https://kidoworld.000webhostapp.com/website/Categories/Categories.php",
+                "gitlink": "https://github.com/shivesh947/Handicraft_selling",
+                "imageLink": "images/projecticon/logo11.png",
+                "shorddescription": "Handicraft selling website show front end only "
+            }
+        ],
+
+        "education": [{
+            "imageLink": "",
+            "name": "jAVA",
+            "link": "",
+            "year": "2012-2018",
+            "month": "feb-june"
+        }]
+    }
+
+}
