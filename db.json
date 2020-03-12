@@ -5,6 +5,11 @@
             "Name": "Shivesh Gupta",
             "Email": "Guptashiv84@gmail.com",
             "Phonenumber": "8968884748",
+            "Personallinks":[
+                "Guptashiv84@gmail.com",
+                "https://www.linkedin.com/in/shivesh-gupta-86712b178/",
+                "https://github.com/shivesh947"
+            ],
             "links": [{
                     "icon": "url",
                     "type": "Git",
@@ -18,7 +23,7 @@
             ],
             "developertype": "Full Stack Developer",
             "heading": "Great things are done by a series of small things brought together.",
-            "description": "I love building UI/UX design experiences that improve user's everyday life + I convert the design into responsive HTML5/CSS3 that I call PSD to HTML Development. I am always hungry for new challenges and innovations. Any spare time I have to work on side projects to further my skills so that I can apply these to real projects."
+            "description": "I love building UI/UX design experiences that improve user's everyday life + I like to design Front end of website and Development of beckend. I am always hungry for new challenges and innovations. Any spare time I have to work on side projects to further my skills so that I can apply these to real projects."
         }],
         "skill": [{
             "name": [
@@ -26,14 +31,20 @@
                 "CSS",
                 "JAVASCRIPT",
                 "Jquery",
-                "java"
+                "PHP",
+                "Nodejs",
+                "ReactJs",
+                "Angular"
             ],
             "percentage": [
                 "100",
-                "40",
-                "70",
                 "80",
-                "40"
+                "90",
+                "80",
+                "70",
+                "60",
+                "80",
+                "70"
             ]
         }],
         "projects": [{
