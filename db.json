@@ -27,24 +27,28 @@
         }],
         "skill": [{
             "name": [
-                "HTML",
                 "CSS",
+                "HTML",
+                "React",
                 "JAVASCRIPT",
-                "Jquery",
-                "PHP",
+                "Angular",
                 "Nodejs",
-                "ReactJs",
-                "Angular"
+                "PHP",
+                "UI Design",
+                "Mysql",
+                "Mongodb"
             ],
             "percentage": [
-                "100",
+                "80",
+                "95",
                 "80",
                 "90",
-                "80",
-                "70",
+                "75",
                 "60",
                 "80",
-                "70"
+                "70",
+                "80",
+                "60"
             ]
         }],
         "projects": [{
@@ -132,7 +136,12 @@
                 "shorddescription": "Handicraft selling website show front end only "
             }
         ],
-
+        "mockups":[
+            {
+                "name":"calendar application",
+                "imagelink":"images/mockups/calenderapp.png"
+            }
+            ],
         "education": [{
             "imageLink": "",
             "name": "jAVA",
