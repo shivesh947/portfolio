@@ -142,8 +142,12 @@
                 "imagelink":"images/mockups/mock1.png"
             },
             {
-                "name":"calendar application",
+                "name":"Music application",
                 "imagelink":"images/mockups/mock2.png"
+            },
+            {
+                "name":"Login / register ",
+                "imagelink":"images/mockups/mock3.png"
             }
             ],
         "education": [{
