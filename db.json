@@ -132,11 +132,19 @@
                 "Name": "Handicraft selling",
                 "livelink": "https://kidoworld.000webhostapp.com/website/Categories/Categories.php",
                 "gitlink": "https://github.com/shivesh947/Handicraft_selling",
-                "imageLink": "https://lh3.googleusercontent.com/proxy/jdk_4g3JL0RU8LWmzOvtr32wfJo3j77bc7cLPlJIsv7-w05hj7NNmBSl4u9rlu7y3-uLQVDiAF1fLWGfggWxnn9C6I7ZLjKUjoBV9D5zlcGU6PDrgOReq7C9irUbgU8UWYC7",
+                "imageLink": "images/projecticon/logo11.png",
                 "shortdescription": "Handicraft selling website show front end only "
             }
         ],
         "mockups":[
+            {
+                "name":"food",
+                "imagelink":"images/mockups/web1.png"
+            },
+            {
+                "name":"space ",
+                "imagelink":"images/mockups/web2.png"
+            },
             {
                 "name":"calendar application",
                 "imagelink":"images/mockups/mock1.png"
@@ -158,4 +166,5 @@
             "month": "feb-june"
         }]
     }
+
 }
