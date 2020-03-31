@@ -154,16 +154,8 @@
                 "imagelink":"images/mockups/web4.png"
             },
             {
-                "name":"calendar application",
-                "imagelink":"images/mockups/mock1.png"
-            },
-            {
-                "name":"Music application",
-                "imagelink":"images/mockups/mock2.png"
-            },
-            {
-                "name":"Login / register ",
-                "imagelink":"images/mockups/mock3.png"
+                "name":"shop ",
+                "imagelink":"images/mockups/web5.png"
             }
             ],
         "education": [{
@@ -176,3 +168,4 @@
     }
 
 }
+
